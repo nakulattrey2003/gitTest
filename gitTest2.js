@@ -1,2 +1,4 @@
 const a = 80;
-const c = 40;
+const d = 60;
+
+const e = 20;
